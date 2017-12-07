@@ -15,3 +15,5 @@ Hi I'm currently bashing my head off OSx upgrades for OSx and XCode
 
 Maciej Marchel
 I like computer hardware.
+
+Adam - I like computers
